@@ -1,6 +1,7 @@
 import React, { useMemo, useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Check, Phone, User, CupSoda, Milk, IceCream, Cat, Sparkles } from "lucide-react";
+import './index.css'
 
 // =====================
 // Inline SVG Asset: Chibi Cat
